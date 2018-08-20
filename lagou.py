@@ -2,7 +2,7 @@
 """
  @desc:
  @author: zengls
- @software: PyCharm on 18-8-12
+ @software: PyCharm on 2018-8-12
 """
 import requests
 from lxml import etree
