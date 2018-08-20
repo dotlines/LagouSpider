@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
  @desc:
- @author: adam
+ @author: zengls
  @software: PyCharm on 18-8-12
 """
 import requests
